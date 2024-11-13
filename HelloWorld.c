@@ -1,4 +1,4 @@
 int main(){
-	char name[] = "Linus";
+	char name[]="Linus";
 	printf("Hello, %s!", name);
 }
